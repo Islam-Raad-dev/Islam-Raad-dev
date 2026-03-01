@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 First-year undergraduate at the University of Mosul, College of Computer Science and Mathematics. Specializing in Artificial Intelligence with a technical focus on C++, Python, and Machine Learning. Actively engaged in professional development through international skill programs and advanced programming roadmaps.
 
 
