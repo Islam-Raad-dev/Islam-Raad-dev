@@ -25,4 +25,3 @@ A Freshman undergraduate at the University of Mosul, College of Computer Science
 [![](https://visitcount.itsvg.in/api?id=Islam-Raad-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Islam.Raad.dev)](https://git.io/streak-stats)
