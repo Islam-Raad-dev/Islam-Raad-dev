@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&multiline=false&width=600&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;AI+Student+%40+University+of+Mosul+%F0%9F%8E%93;Building+the+Future+with+ML+%26+C%2B%2B+%F0%9F%A4%96;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&multiline=false&width=600&lines=Welcome+to+my+GitHub+Profile;AI+Student+%40+University+of+Mosul;Building+the+Future+with+ML+%26+C%2B%2B;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,20 +23,20 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🎓 Freshman @ **University of Mosul** — College of Computer Science & Mathematics
-- 🤖 Specializing in **Artificial Intelligence**
-- 💻 Focused on **C++**, **Python** & **Machine Learning**
-- 📍 Mosul, Iraq 🇮🇶
-- 🔭 Currently working on: **ML projects with PyTorch & scikit-learn**
-- 🌱 Currently learning: **Deep Learning & Neural Networks**
-- 🚀 Goal: Become a world-class AI Engineer
-- 📬 Open to collaborations & opportunities
+- Freshman at **University of Mosul** — College of Computer Science & Mathematics
+- Specializing in **Artificial Intelligence**
+- Focused on **C++**, **Python** & **Machine Learning**
+- Based in Mosul, Iraq
+- Currently working on: **ML projects with PyTorch & scikit-learn**
+- Currently learning: **Deep Learning & Neural Networks**
+- Goal: Become a world-class AI Engineer
+- Open to collaborations & opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="10">
@@ -93,7 +93,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -103,26 +103,14 @@
 
 ---
 
-## 🔝 Top Contributed Repos
-
 <div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Islam-Raad-dev&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
-
-
-
-<div align="center">
-
-### 💬 Quote
 
 > *"The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice."*
 > — **Brian Herbert**
 
 <br/>
 
-**⭐ If you find my work interesting, consider starring my repos!**
+**If you find my work interesting, consider starring my repos.**
 
 </div>
 
