@@ -31,12 +31,7 @@ A Freshman undergraduate at the University of Mosul, College of Computer Science
 
 </div>
 
-### Top Contributed Repo
-<div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Islam-Raad-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
 
 ---
 [![](https://komarev.com/ghpvc/?username=Islam-Raad-dev&icon=0&color=0)](https://visitcount.itsvg.in)
