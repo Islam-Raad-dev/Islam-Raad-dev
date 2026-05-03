@@ -25,25 +25,14 @@
 
 ## 🧠 About Me
 
-```python
-class IslamRaad:
-    def __init__(self):
-        self.name        = "Islam Raad"
-        self.role        = "AI Student & Developer"
-        self.university  = "University of Mosul — CS & Math"
-        self.location    = "Mosul, Iraq 🇮🇶"
-        self.focus       = ["Artificial Intelligence", "Machine Learning", "C++", "Python"]
-
-    def currently(self):
-        return {
-            "learning"  : "Deep Learning & Neural Networks",
-            "building"  : "ML projects with PyTorch & scikit-learn",
-            "goal"      : "Become a world-class AI Engineer 🚀"
-        }
-
-    def fun_fact(self):
-        return "I debug code better at 2AM ☕"
-```
+- 🎓 Freshman @ **University of Mosul** — College of Computer Science & Mathematics
+- 🤖 Specializing in **Artificial Intelligence**
+- 💻 Focused on **C++**, **Python** & **Machine Learning**
+- 📍 Mosul, Iraq 🇮🇶
+- 🔭 Currently working on: **ML projects with PyTorch & scikit-learn**
+- 🌱 Currently learning: **Deep Learning & Neural Networks**
+- 🚀 Goal: Become a world-class AI Engineer
+- 📬 Open to collaborations & opportunities
 
 ---
 
@@ -122,17 +111,7 @@ class IslamRaad:
 
 </div>
 
----
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Islam-Raad-dev/Islam-Raad-dev/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
