@@ -105,7 +105,7 @@
 
 <div align="center">
 
-> *"Artificial intelligence is the new electricity."*
+> *"Artificial Intelligence Is The New Electricity."*
 > — **Andrew Ng**
 
 <br/>
