@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:FF0080&height=250&section=header&text=Islam%20Raad&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Artificial%20Intelligence%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20Machine%20Learning&descSize=18&descColor=ffffff&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B4619,50:1A7A34,100:0B4619&height=250&section=header&text=Islam%20Raad&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Artificial%20Intelligence%20%7C%20C%2B%2B%20%7C%20Python%20%7C%20Machine%20Learning&descSize=18&descColor=ffffff&descAlignY=60&animation=fadeIn)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&multiline=false&width=600&lines=Welcome+to+my+GitHub+Profile;AI+Student+%40+University+of+Mosul;Building+the+Future+with+ML+%26+C%2B%2B;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=false&width=600&lines=Welcome+to+my+GitHub+Profile;AI+Student+%40+University+of+Mosul;Building+the+Future+with+ML+%26+C%2B%2B;Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-raad)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islam.raad.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Islam-Raad-dev)
-[![Profile Views](https://komarev.com/ghpvc/?username=Islam-Raad-dev&style=for-the-badge&color=FF0080&label=PROFILE+VIEWS)](https://github.com/Islam-Raad-dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=Islam-Raad-dev&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS)](https://github.com/Islam-Raad-dev)
 
 </div>
 
@@ -73,21 +73,21 @@
   <table border="0" cellspacing="0" cellpadding="10">
     <tr>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Islam-Raad-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github" />
+        <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Islam-Raad-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github&title_color=22C55E&icon_color=22C55E&bg_color=0d1117&text_color=ffffff" />
       </td>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Islam-Raad-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=8" />
+        <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Islam-Raad-dev&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact&langs_count=8&title_color=22C55E&bg_color=0d1117&text_color=ffffff" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Islam-Raad-dev&theme=radical&hide_border=true&fire=FF0080&ring=FF0080&currStreakLabel=FF0080" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Islam-Raad-dev&theme=dark&hide_border=true&fire=22C55E&ring=22C55E&currStreakLabel=22C55E&background=0d1117&stroke=22C55E&dates=ffffff&sideLabels=22C55E" />
 
   <br/><br/>
 
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Islam-Raad-dev&theme=redical&hide_border=true&area=true&color=FF0080&line=FF0080&point=ffffff" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Islam-Raad-dev&bg_color=0d1117&color=22C55E&line=22C55E&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -97,7 +97,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Islam-Raad-dev&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)
+![](https://github-profile-trophy.vercel.app/?username=Islam-Raad-dev&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 </div>
 
@@ -116,4 +116,4 @@
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:FF0080&height=130&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0B4619,50:1A7A34,100:0B4619&height=130&section=footer)
