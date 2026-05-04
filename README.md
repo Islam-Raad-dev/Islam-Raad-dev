@@ -28,8 +28,6 @@
 - Freshman at **University of Mosul** — College of Computer Science & Mathematics
 - Specializing in **Artificial Intelligence**
 - Focused on **C++**, **Python** & **Machine Learning**
-- Based in Mosul, Iraq
-- Currently working on: **ML projects with PyTorch & scikit-learn**
 - Currently learning: **Deep Learning & Neural Networks**
 - Goal: Become a world-class AI Engineer
 - Open to collaborations & opportunities
