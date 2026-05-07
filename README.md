@@ -29,8 +29,8 @@
 - Specializing in **Artificial Intelligence**
 - Focused on **C++**, **Python** & **Machine Learning**
 - Currently learning: **Deep Learning & Neural Networks**
-- Goal: Become a world-class AI Engineer
-- Open to collaborations & opportunities
+- Goal: Become a World-Class **AI Engineer**
+- Open to **Collaborations** & **Opportunities**
 
 ---
 
