@@ -25,8 +25,7 @@
 
 ## About Me
 
-- Freshman at **University of Mosul** — College of Computer Science & Mathematics
-- Department of **Artificial Intelligence**
+- Freshman at **University of Mosul** — Department of **Artificial Intelligence**
 - Focused on **C++**, **Python** & **Machine Learning**
 - Currently learning: **Deep Learning & Neural Networks**
 - Goal: Become a World-Class **AI Engineer**
