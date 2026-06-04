@@ -17,6 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-raad)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islam.raad.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Islam-Raad-dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Islam_Raad/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Islam-Raad-dev&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS)](https://github.com/Islam-Raad-dev)
 
 </div>
@@ -27,7 +28,7 @@
 
 - Freshman at **University of Mosul** — Department of **Artificial Intelligence**
 - Focused on **C++**, **Python** & **Machine Learning**
-- Currently learning: **Deep Learning & Neural Networks**
+- Currently learning: **Deep Learning**, **Neural Networks** & **Agentic AI**
 - Goal: Become a World-Class **AI Engineer**
 - Open to **Collaborations** & **Opportunities**
 
@@ -44,6 +45,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **AI / ML**
 
@@ -52,11 +54,15 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -77,15 +83,10 @@
       </td>
     </tr>
   </table>
-
   <br/>
-
   <img width="70%" src="https://streak-stats.demolab.com/?user=Islam-Raad-dev&theme=dark&hide_border=true&fire=22C55E&ring=22C55E&currStreakLabel=22C55E&background=0d1117&stroke=22C55E&dates=ffffff&sideLabels=22C55E" />
-
   <br/><br/>
-
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Islam-Raad-dev&bg_color=0d1117&color=22C55E&line=22C55E&point=ffffff&area=true&hide_border=true" />
-
 </div>
 
 ---
