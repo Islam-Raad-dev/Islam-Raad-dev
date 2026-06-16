@@ -28,7 +28,7 @@
 
 - Freshman at **University of Mosul** — Department of **Artificial Intelligence**
 - Focused on **C++**, **Python** & **Machine Learning**
-- Currently learning: **Data Structure**, **SQL DataBase**, **Math in Machine Learning**
+- Currently learning: **Python**, **SQL DataBase**, **Math in Machine Learning**
 - Goal: Become a World-Class **AI Engineer**
 - Open to **Collaborations** & **Opportunities**
 
