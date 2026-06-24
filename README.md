@@ -90,16 +90,6 @@
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Islam-Raad-dev&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
 <div align="center">
 
 > *"Artificial Intelligence Is The New Electricity."*
