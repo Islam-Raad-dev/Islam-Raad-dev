@@ -27,8 +27,8 @@
 ## About Me
 
 - Freshman at **University of Mosul** — Department of **Artificial Intelligence**
-- Focused on **Python** & **Database** & **Machine Learning**
-- Currently learning: **Python**, **SQL DataBase**, **Math in Machine Learning**
+- Focused on **Python** & **Agent** & **Machine Learning**
+- Currently learning: **Python**, **Agentic AI**, **Math in Machine Learning**
 - Goal: Become a World-Class **AI Engineer**
 - Open to **Collaborations** & **Opportunities**
 
