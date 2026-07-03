@@ -85,11 +85,7 @@
   </table>
   <br/>
   <img width="70%" src="https://streak-stats.demolab.com/?user=Islam-Raad-dev&theme=dark&hide_border=true&fire=22C55E&ring=22C55E&currStreakLabel=22C55E&background=0d1117&stroke=22C55E&dates=ffffff&sideLabels=22C55E" />
-  <br/><br/>
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Islam-Raad-dev&bg_color=0d1117&color=22C55E&line=22C55E&point=ffffff&area=true&hide_border=true" />
-</div>
 
----
 
 <div align="center">
 
