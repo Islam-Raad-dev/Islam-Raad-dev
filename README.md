@@ -28,7 +28,7 @@
 
 - Sophomore at **University of Mosul** — Department of **Artificial Intelligence**
 - Focused on **Python** & **Agent** & **Machine Learning**
-- Currently learning: **Advanced Backend** & **MLOps**
+- Currently learning: **Agentic AI** & **Advanced Backend**
 - Goal: Become a World-Class **AI Engineer**
 - Open to **Collaborations** & **Opportunities**
 
@@ -57,7 +57,7 @@
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**API && ORM & Deployment**
+**Backend & DevOps**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white)
