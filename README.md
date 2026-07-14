@@ -23,12 +23,12 @@
 </div>
 
 ---
-   
+
 ## About Me
 
 - Sophomore at **University of Mosul** — Department of **Artificial Intelligence**
 - Focused on **Python** & **Agent** & **Machine Learning**
-- Currently learning: **Advanced Backend** & **MLOps**
+- Currently learning: **Python**, **Agentic AI**, **Math in Machine Learning**
 - Goal: Become a World-Class **AI Engineer**
 - Open to **Collaborations** & **Opportunities**
 
@@ -57,15 +57,6 @@
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-**API Architecture & Deployment**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -76,6 +67,46 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
+
+---
+
+## What I'm Learning Next
+
+Currently taking [Sanjeev Thiyagarajan's FastAPI Course](https://www.youtube.com/watch?v=0sOvCWFmrtA) — building a complete REST API from scratch, covering everything from routes and databases to authentication, testing, and deployment ([course repo](https://github.com/Sanjeev-Thiyagarajan/fastapi-course)).
+
+<div align="center">
+
+**API Development**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=Pydantic&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Database & ORM**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-2C3E50?style=for-the-badge&logoColor=white)
+
+**Testing, Auth & DevOps**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+**Key topics on the roadmap:**
+
+- Building RESTful APIs with **FastAPI** — routes, path operations, and request/response handling
+- **Schema validation & serialization** using Pydantic models
+- Full **CRUD operations** on a **PostgreSQL** database through the **SQLAlchemy ORM**
+- **User authentication** — password hashing, JWT tokens & OAuth2
+- **Database migrations** with Alembic, plus table relationships and foreign keys
+- **Automated testing** with Pytest (fixtures, parametrize, TestClient)
+- **CI/CD pipelines** using GitHub Actions
+- **Deployment** with Docker & Nginx to a production server
 
 ---
 
