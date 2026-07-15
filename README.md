@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B4619,50:1A7A34,100:0B4619&height=280&section=header&text=Islam%20Raad&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=FULL-STACK%20AI%20ENGINEER&descSize=24&descColor=A8FEBE&descAlignY=62&animation=fadeIn" alt="Header" />
-</p>
+
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B4619,50:1A7A34,100:0B4619&height=250&section=header&text=Islam%20Raad&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Artificial%20Intelligence%20%7C%20Agentic%20AI%20%7C%20Python%20%7C%20PostgreSQL&descSize=18&descColor=ffffff&descAlignY=60&animation=fadeIn)
+
+</div>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/ROLE-FULL--STACK%20AI%20ENGINEER-0B4619?style=for-the-badge&labelColor=05220C&logo=openai&logoColor=white" alt="Job Title" />
