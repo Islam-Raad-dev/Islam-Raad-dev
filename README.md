@@ -109,7 +109,7 @@
 
 > *"Artificial Intelligence is the new electricity and will transform and improve nearly all areas of human lives..."*
 
-> — **Andrew Ng**
+> — **Andrew Ng** — 
 
 <br/>
 
