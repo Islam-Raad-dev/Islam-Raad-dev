@@ -33,8 +33,7 @@
 ## About Me
 
 - Sophomore at **University of Mosul** — Department of **Artificial Intelligence**
-- Focused on **Python** & **Agent** & **Machine Learning**
-- Currently learning: **Agentic AI** & **Advanced Backend**
+- Currently learning: **Agentic AI** & **Machine Learning**
 - Goal: Become a World-Class **AI Engineer**
 - Open to **Collaborations** & **Opportunities**
 
