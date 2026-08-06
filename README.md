@@ -34,7 +34,7 @@
 
 - Sophomore at **University of Mosul** — Department of **Artificial Intelligence**
 - Currently learning: **Agentic AI** & **Machine Learning**
-- Goal: Become a World-Class **AI Engineer**
+- Goal: Become a **Full-Stack AI Engineer**
 - Open to **Collaborations** & **Opportunities**
 
 ---
