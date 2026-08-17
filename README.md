@@ -5,7 +5,7 @@
 
 </div>
            
-
+                                                                                    
 <p align="center">
   <img src="https://img.shields.io/badge/ROLE-FULL--STACK%20AI%20ENGINEER-0B4619?style=for-the-badge&labelColor=05220C&logo=openai&logoColor=white" alt="Job Title" />
 </p>
