@@ -1,7 +1,7 @@
                                                              
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B4619,50:1A7A34,100:0B4619&height=250&section=header&text=Islam%20Raad&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Artificial%20Intelligence%20%7C%20&descSize=18&descColor=ffffff&descAlignY=60&animation=fadeIn)                      
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0B4619,50:1A7A34,100:0B4619&height=250&section=header&text=Islam%20Raad&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Artificial%20Intelligence%20%20&descSize=18&descColor=ffffff&descAlignY=60&animation=fadeIn)                      
 
 </div>
            
