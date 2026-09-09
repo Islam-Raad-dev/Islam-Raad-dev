@@ -111,14 +111,6 @@
 
 ---
 
-## Learning Timeline
-
-<!-- Add a new line here every time you learn something new — this section is your history log. -->
-
-- **Sep 2026:** System Design fundamentals (Monolith vs Microservices, CAP Theorem, Load Balancing & Scaling, Message Queues), Design Patterns, REST API, GraphQL, gRPC, WebSockets & SSE, Sessions & Cookies, MongoDB, Redis, Vector Databases, Full-Text Search, OWASP API Security, Rate Limiting, Secrets Management, Observability
-
----
-
 ## GitHub Stats
 
 <div align="center">
