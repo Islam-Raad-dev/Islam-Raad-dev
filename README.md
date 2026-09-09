@@ -69,6 +69,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Full-Text Search](https://img.shields.io/badge/Full--Text%20Search-4169E1?style=for-the-badge&logoColor=white)
 
 **Backend & DevOps**
 
@@ -84,10 +85,29 @@
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logoColor=white)
 
-**Concepts & Architecture**
+**System Design & Architecture**
 
 ![System Design](https://img.shields.io/badge/System%20Design-1A7A34?style=for-the-badge&logoColor=white)
+![Monolith vs Microservices](https://img.shields.io/badge/Monolith%20vs%20Microservices-0B4619?style=for-the-badge&logoColor=white)
+![CAP Theorem](https://img.shields.io/badge/CAP%20Theorem-1A7A34?style=for-the-badge&logoColor=white)
+![Load Balancing & Scaling](https://img.shields.io/badge/Load%20Balancing%20%26%20Scaling-0B4619?style=for-the-badge&logoColor=white)
+![Message Queues](https://img.shields.io/badge/Message%20Queues-1A7A34?style=for-the-badge&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns%20(Repository%2FUoW)-0B4619?style=for-the-badge&logoColor=white)
+
+**APIs & Real-Time Communication**
+
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets%20%26%20SSE-4B5563?style=for-the-badge&logoColor=white)
 ![Sessions & Cookies](https://img.shields.io/badge/Sessions%20%26%20Cookies-4B5563?style=for-the-badge&logoColor=white)
+
+**Security & Reliability**
+
+![OWASP](https://img.shields.io/badge/OWASP%20API%20Security-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Rate Limiting](https://img.shields.io/badge/Rate%20Limiting-4B5563?style=for-the-badge&logoColor=white)
+![Secrets Management](https://img.shields.io/badge/Secrets%20Management-000000?style=for-the-badge&logo=vault&logoColor=white)
+![Observability](https://img.shields.io/badge/Observability-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 **Tools & Platforms**
 
@@ -101,6 +121,13 @@
 
 </div>
 
+---
+
+## Learning Timeline
+
+<!-- Add a new line here every time you learn something new — this section is your history log. -->
+
+- **Sep 2026:** System Design fundamentals (Monolith vs Microservices, CAP Theorem, Load Balancing & Scaling, Message Queues), Design Patterns, REST API, GraphQL, gRPC, WebSockets & SSE, Sessions & Cookies, MongoDB, Redis, Vector Databases, Full-Text Search, OWASP API Security, Rate Limiting, Secrets Management, Observability
 
 ---
 
