@@ -101,13 +101,6 @@
 
 </div>
 
----
-
-## Learning Timeline
-
-<!-- Add a new line here every time you learn something new — this section is your history log. -->
-
-- **Sep 2026:** System Design, Redis, Vector Databases, MongoDB, REST API, GraphQL, Sessions & Cookies
 
 ---
 
