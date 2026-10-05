@@ -67,7 +67,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Vector Databases](https://img.shields.io/badge/Vector%20Databases-6E56CF?style=for-the-badge&logoColor=white)
 
 **Backend & DevOps**
 
