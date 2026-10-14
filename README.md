@@ -59,8 +59,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Databases**
 
@@ -81,18 +79,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**System Design & Architecture**
-
-![System Design](https://img.shields.io/badge/System%20Design-1A7A34?style=for-the-badge&logoColor=white)
-![Load Balancing & Scaling](https://img.shields.io/badge/Load%20Balancing%20%26%20Scaling-0B4619?style=for-the-badge&logoColor=white)
-![Message Queues](https://img.shields.io/badge/Message%20Queues-1A7A34?style=for-the-badge&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns%20(Repository%2FUoW)-0B4619?style=for-the-badge&logoColor=white)
-
-**Security & Reliability**
-
-![OWASP](https://img.shields.io/badge/OWASP%20API%20Security-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Secrets Management](https://img.shields.io/badge/Secrets%20Management-000000?style=for-the-badge&logo=vault&logoColor=white)
-![Observability](https://img.shields.io/badge/Observability-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 **Tools & Platforms**
 
