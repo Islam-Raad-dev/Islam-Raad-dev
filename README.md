@@ -22,7 +22,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0B4619?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB4PSIxNiIgeT0iMTYiIHdpZHRoPSI0ODAiIGhlaWdodD0iNDgwIiByeD0iMTE1IiByeT0iMTE1IiBmaWxsPSIjRkZGRkZGIi8%2BPHBhdGggZD0iTTE1NCAxMzhMMzMwIDEzOEEyOCAyOCAwIDAgMSAzMzAgMTk0TDIxMCAxOTRMMjEwIDM3NEwxODIgMzc0QTI4IDI4IDAgMCAxIDE1NCAzNDZaIiBmaWxsPSIjMDAwMDAwIi8%2BPC9zdmc%2B)](https://islamraad.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-raad)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islam.raad.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Islam-Raad-dev)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Islam_Raad/)
 [![Profile Views](https://komarev.com/ghpvc/?username=Islam-Raad-dev&style=for-the-badge&color=22C55E&label=PROFILE+VIEWS)](https://github.com/Islam-Raad-dev)
 
