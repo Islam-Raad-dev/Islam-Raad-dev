@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B4619?style=for-the-badge&logo=netlify&logoColor=white)](https://islamraad.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B4619?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cmVjdCB4PSIxNiIgeT0iMTYiIHdpZHRoPSI0ODAiIGhlaWdodD0iNDgwIiByeD0iMTE1IiByeT0iMTE1IiBmaWxsPSIjRkZGRkZGIi8%2BPHBhdGggZD0iTTE1NCAxMzhMMzMwIDEzOEEyOCAyOCAwIDAgMSAzMzAgMTk0TDIxMCAxOTRMMjEwIDM3NEwxODIgMzc0QTI4IDI4IDAgMCAxIDE1NCAzNDZaIiBmaWxsPSIjMDAwMDAwIi8%2BPC9zdmc%2B)](https://islamraad.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam-raad)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islam.raad.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Islam-Raad-dev)
@@ -34,7 +34,6 @@
 
 - Sophomore at **University of Mosul** — Department of **Artificial Intelligence**
 - Currently learning: **Machine Learning** & **Advanse Backend**
-- Portfolio: [**islamraad.netlify.app**](https://islamraad.netlify.app/)
 - Goal: Become a **Full-Stack AI Engineer**
 - Open to **Collaborations** & **Opportunities**
 
