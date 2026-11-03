@@ -32,7 +32,7 @@
 ## About Me
 
 - Sophomore at **University of Mosul** — Department of **Artificial Intelligence**
-- Currently learning: **Machine Learning** & **Advanse Backend**
+- Currently learning: **Machine Learning** & **GenAI**
 - Goal: Become a **Full-Stack AI Engineer**
 - Open to **Collaborations** & **Opportunities**
 
